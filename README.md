@@ -1,6 +1,5 @@
-# MiniPrject_Mg400
+# MiniPrject_Mg400 Overview Code
 
-### OVERVIEW CODE 
 # client.py 
 ### 🤖Feature
 - ตรวจจับสี [red,green,blue,yellow]
